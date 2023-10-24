@@ -1,4 +1,4 @@
 # Imobiliaria
-BackEnd Node.js
+BackEnd: Node.js
 
-Front React
+Front: React
